@@ -34,10 +34,11 @@ It compares **Sales Quantity vs Forecast Quantity**, calculates forecast errors 
 
 ## Tools & Technologies
 
-* **Power BI Desktop** – Dashboard development and visualization
+* **Power BI** – Dashboard development, data modeling, and visualization
 * **Power Query** – Data cleaning and transformation
 * **DAX** – Measures, KPIs, calculations, and time-based analysis
-* **Data Modeling** – Relationships and analytical data model
+* **MySQL** – Data source
+* **Excel** – Data source
 
 ## Key Features
 
