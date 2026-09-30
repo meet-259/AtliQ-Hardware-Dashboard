@@ -1,4 +1,4 @@
-# AtliQ Hardware – Power BI Analytics Dashboard
+# AtliQ Hardware — Sales, Finance & Forecast Analytics Dashboard
 
 An interactive 4-page Power BI dashboard analyzing sales, financial performance, and demand-forecast accuracy for AtliQ Hardware, a computer hardware manufacturer. Built on ~1M records across 209 customers and 397 products, integrating MySQL and Excel data sources.
 
