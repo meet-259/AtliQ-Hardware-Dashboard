@@ -82,7 +82,7 @@ The project uses a **Snowflake Schema** with 8 fact tables at different grains, 
 | `manufacturing_cost` | Product × Fiscal Year | Unit manufacturing cost by product and year |
 | `freight_cost` | Market × Fiscal Year | Freight cost percentage by country and year |
 | `operational_expenses` | Market × Fiscal Year | Operating expenses by country and year |
-| `marketshare` | Category × Sub-Zone × Fiscal Year | AtliQ and competitor market share by category and region |
+| `marketshare` | Category × Sub-Zone × Fiscal Year x Manufacturer | AtliQ and competitor market share by category and region |
 
 ### Dimension Tables
 
